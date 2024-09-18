@@ -1,5 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonic6679)](https://solved.ac/sonic6679/)
-[![Atcoder Profile](https://atcoder-badge.kro.kr?id=moodTRBL)](https://atcoder.jp/users/moodTRBL)
+<!--[![Atcoder Profile](https://atcoder-badge.kro.kr?id=moodTRBL)](https://atcoder.jp/users/moodTRBL)-->
 <!--
 **moodTRBL/moodTRBL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
