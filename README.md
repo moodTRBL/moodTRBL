@@ -1,3 +1,6 @@
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d400f0,100:d60000&height=120&text=Welcome!&animation=&fontColor=000000&fontSize=40" />
+</div>
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonic6679)](https://solved.ac/sonic6679/)
 <!--[![Atcoder Profile](https://atcoder-badge.kro.kr?id=moodTRBL)](https://atcoder.jp/users/moodTRBL)-->
 <!--
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    
