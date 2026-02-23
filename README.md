@@ -8,9 +8,9 @@
 + 2113부대 (2023.02~2024.08)
 
 ---
++ SW마에스트로 우수자 (2025.12)
 + 숭실대학교 솔브드 코드 페스티벌 3등 (2025.08)
 + 숭실대학교 교내 알고리즘 대회 SCON 3등 (2025.05)
-+ SW마에스트로 우수자 (2025.12)
 
 ---
 [![Turso Contributor](https://img.shields.io/badge/Turso-Contributor-00A3FF?style=flat-square&logo=github)](https://github.com/tursodatabase/turso/pulls?q=is%3Apr+author%3AmoodTRBL)
